@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Android-Multiple-crop-preview</string>
+    <string name="capture">Capture</string>
 </resources>
